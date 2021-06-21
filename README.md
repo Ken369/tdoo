@@ -12,6 +12,9 @@ Attempted this, which I found very tricky because Im not used to following docum
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning
 
 ## Todo Article 2
+I got really stuck at the step titled 'Rendering with Iteration' I felt like the documentation didnt outline where to perform the steps
+
+Was unsure if it was in the App.js, index.js or components/Todo.js or elsewhere
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning
 
 ## Fun Stuff
