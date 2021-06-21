@@ -30,7 +30,7 @@ https://cssgradient.io/
 ## Wave Maker
 https://getwaves.io/
 
-
+# Summary
 I initially found React daunting and NPM Start very tricky, then with the personal drive and mental coaching of a peer they motivated me to give it one last crack... Im very happy I did
 
 ## Create React App
